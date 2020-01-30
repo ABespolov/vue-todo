@@ -1,4 +1,4 @@
-# vue
+# vue-todo
 
 ## Project setup
 ```
